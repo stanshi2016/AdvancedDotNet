@@ -1,0 +1,15 @@
+D:\ruanmou\online10\20171108Advanced10Course5DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe.config
+D:\ruanmou\online10\20171108Advanced10Course5DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe
+D:\ruanmou\online10\20171108Advanced10Course5DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.pdb
+D:\ruanmou\online10\20171108Advanced10Course5DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.exe
+D:\ruanmou\online10\20171108Advanced10Course5DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.pdb
+D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe.config
+D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe
+D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.pdb
+D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.csproj.CoreCompileInputs.cache
+D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.exe
+D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.pdb
+D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.csprojResolveAssemblyReference.cache
+I:\NET高级班VIP课程\高级课程代码+文档\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe.config
+I:\NET高级班VIP课程\高级课程代码+文档\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.exe
+I:\NET高级班VIP课程\高级课程代码+文档\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.pdb
