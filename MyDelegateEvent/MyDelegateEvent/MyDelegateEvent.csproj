@@ -8,8 +8,9 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>MyDelegateEvent</RootNamespace>
     <AssemblyName>MyDelegateEvent</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -30,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MyDelegateEvent.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -42,21 +46,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DelegateExtend\DBExcuteHelper.cs" />
-    <Compile Include="DelegateExtend\ListExtend.cs" />
-    <Compile Include="Event\Baby.cs" />
-    <Compile Include="Event\Brother.cs" />
-    <Compile Include="Event\Cat.cs" />
-    <Compile Include="Event\Dog.cs" />
-    <Compile Include="Event\Father.cs" />
-    <Compile Include="Event\IObject.cs" />
-    <Compile Include="Event\Mother.cs" />
-    <Compile Include="Event\Mouse.cs" />
-    <Compile Include="Event\Neighbor.cs" />
-    <Compile Include="Event\Stealer.cs" />
-    <Compile Include="MyDelegate.cs" />
+    <Compile Include="Delegate\DelegateDecoupling.cs" />
+    <Compile Include="Model\Baby.cs" />
+    <Compile Include="Model\Brother.cs" />
+    <Compile Include="Model\Cat.cs" />
+    <Compile Include="Model\Dog.cs" />
+    <Compile Include="Model\Father.cs" />
+    <Compile Include="Model\IObject.cs" />
+    <Compile Include="Model\Mother.cs" />
+    <Compile Include="Model\Mouse.cs" />
+    <Compile Include="Model\Neighbor.cs" />
+    <Compile Include="Model\Stealer.cs" />
+    <Compile Include="Delegate\MyDelegateInit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="Model\Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

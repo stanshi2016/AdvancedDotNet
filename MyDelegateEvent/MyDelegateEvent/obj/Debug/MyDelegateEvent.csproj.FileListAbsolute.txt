@@ -13,3 +13,9 @@ D:\ruanmou\online11\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDel
 I:\NET高级班VIP课程\高级课程代码+文档\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe.config
 I:\NET高级班VIP课程\高级课程代码+文档\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.exe
 I:\NET高级班VIP课程\高级课程代码+文档\20180509Advanced11Course6DelegateEvent\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.pdb
+D:\WPFProject\AdvancedDotNet\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe.config
+D:\WPFProject\AdvancedDotNet\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.exe
+D:\WPFProject\AdvancedDotNet\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.pdb
+D:\WPFProject\AdvancedDotNet\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.exe
+D:\WPFProject\AdvancedDotNet\MyDelegateEvent\MyDelegateEvent\bin\Debug\MyDelegateEvent.pdb
+D:\WPFProject\AdvancedDotNet\MyDelegateEvent\MyDelegateEvent\obj\Debug\MyDelegateEvent.csprojResolveAssemblyReference.cache
