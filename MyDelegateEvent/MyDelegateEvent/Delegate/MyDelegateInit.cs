@@ -53,7 +53,6 @@ namespace MyDelegateEvent
                 var result = method.BeginInvoke(null, null);
                 method.EndInvoke(result);
             }
-
             {
                 //多种途径实例化
                 {
